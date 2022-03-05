@@ -1,0 +1,19 @@
+/* pages/detail-video/index.wxss */
+page{
+  padding-top: 450rpx;
+}
+.video{
+  position: fixed;
+  top:0;
+  width: 100%;
+}
+.baseinfo{
+  padding: 40rpx;
+}
+.title{
+  font-size: 50rpx;
+}
+.singerrc , .count{
+  font-size: 26rpx;
+  color: #666;
+}
