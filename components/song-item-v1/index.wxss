@@ -1,4 +1,5 @@
 /* components/song-item-v1/index.wxss */
+/* components/song-item-v1/index.wxss */
 .item {
   display: flex;
   padding: 16rpx 0;

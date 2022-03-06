@@ -1,4 +1,3 @@
-/* components/ranking-area-item/index.wxss */
 /* components/top-list-item/index.wxss */
 .item {
   display: flex;
